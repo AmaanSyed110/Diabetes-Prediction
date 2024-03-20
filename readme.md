@@ -4,6 +4,11 @@ The primary objective of this project is to develop a robust and accurate machin
 ## Deployed on
 https://diab-pred.streamlit.app/
 ## Preview
-https://github.com/AmaanSyed110/Diabetes-Prediction/assets/107990138/6ba63858-940b-4c33-a4f0-47f36322f162
+
+
+
+
+
+https://github.com/AmaanSyed110/Diabetes-Prediction/assets/107990138/04915345-0c7a-4637-9dbb-7f0a7f3654b9
 
 
