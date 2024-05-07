@@ -9,7 +9,7 @@ import numpy as np
 import pickle
 
 #loading the saved model
-loaded_model=pickle.load(open('D:/Git-Hub projects/Diabetes Prediction/trained_model.sav','rb'))
+loaded_model=pickle.load(open('D:/Git-Hub projects/Diabetes Prediction/trained_model.pkl','rb'))
 
 input_data=(0,55,1,0,2,22.5,7.2,120)
 #changing the input data to numpy array
